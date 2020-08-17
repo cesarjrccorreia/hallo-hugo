@@ -13,13 +13,13 @@ main {
     }
 
     .column.left {
-        text-align: end;
+        text-align: center;
     }
 
     .column.right {
         h1 {
             margin-left: -10px; /* Correction for margin of leftmost character. */
-            margin-bottom: 0.4em;
+            margin-bottom: 0em;
         }
 
         h2 {
